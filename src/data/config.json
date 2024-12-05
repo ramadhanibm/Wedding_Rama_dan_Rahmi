@@ -1,0 +1,52 @@
+{
+  "pegantin": {
+    "pria": {
+      "foto": "/images/foto-rama.jpg",
+      "panggilan": "Rama",
+      "nama": "Moch Ramadhani BM",
+      "bapak": "Sumalik",
+      "ibu": "Jumiati"
+    },
+    "wanita": {
+      "foto": "/images/foto-rahmi.jpg",
+      "panggilan": "Rahmi",
+      "nama": "Rahmi Nailatunisrina",
+      "bapak": "Moh.Okie Tobiin",
+      "ibu": "Endang Saptarini"
+    }
+  },
+  "audio_url": "/audio/lagu.mp3",
+  "tanggal_pernikahan": "2024-12-22",
+  "thumbnail_image_url": "/images/foto-depan.jpg",
+  "url_video": "/audio/lagu.mp3",
+  "intro": "Setelah Rama dan Rahmi dipertemukan dalam situasi yang tepat, di mana keduanya telah siap untuk memulai hubungan bersama, tibalah mereka di awal perjalanan baru menuju pernikahan.",
+  "breaking_news_img": "/images/foto-depan.jpg",
+  "breaking_news_content": "<p>Halo! Karena kalian adalah orang penting yang mengisi hari-hari kami, kami ingin informasikan bahwa kami akan segera menikah! &lt;3 </p><p className=\"mt-4\"> Tapi sebelumnya, kami mohon maaf kepada teman dan kerabat semua karena tidak bisa mengundang kalian hadir di hari bahagia kami, dikarenakan pernikahan kami bersifat intimate wedding yang dilaksanakan di Tegal dan hanya dihadiri oleh keluarga dan orang terdekat.</p><p className=\"mt-4\">Walaupun begitu, kami harapkan sebaik-baiknya doa untuk kelancaran pernikahan dan hari-hari bahagia setelahnya.</p><p className=\"mt-4\">Dengan penuh cinta,</p><p>The bride and groom &lt;3</p>",
+  "love_story": [
+    {
+      "image_url": "/images/foto-bareng.jpg",
+      "title": "Episode 1: How We Met Each Other that Time",
+      "description": "Ketika pertama kali bertemu, kami tidak tahu bahwa kami akan menjadi pasangan hidup. Namun, Tuhan telah menyiapkan jalan kami untuk bertemu dan saling mengenal satu sama lain."
+    },
+    {
+      "image_url": "/images/foto-bareng-2.jpg",
+      "title": "Episode 2: The First Date",
+      "description": "Setelah beberapa kali bertemu, akhirnya kami memutuskan untuk menghabiskan waktu bersama. Kami pergi ke tempat yang indah dan berbagi cerita tentang diri kami masing-masing."
+    }
+  ],
+  "gallery": [
+    "/images/foto-depan.jpg",
+    "/images/foto-depan.jpg",
+    "/images/foto-depan.jpg",
+    "/images/foto-depan.jpg",
+    "/images/foto-depan.jpg",
+    "/images/foto-depan.jpg"
+  ],
+  "show_menu": {
+    "breaking_news": true,
+    "bride_and_groom": true,
+    "love_story": true,
+    "gallery": true,
+    "wish": true
+  }
+}
