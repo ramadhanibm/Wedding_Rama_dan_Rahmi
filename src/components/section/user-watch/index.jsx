@@ -22,7 +22,7 @@ export default function UserWatch({ onClick }) {
         alt="nikahfix"
       />
       <div>
-        <p className="mb-10 text-2xl">Who's Watching?</p>
+        <p className="mb-10 text-2xl">Siapa yang menonton?</p>
         <div onClick={onClick} className="group cursor-pointer">
           <img
             className="mx-auto group-hover:scale-125"
