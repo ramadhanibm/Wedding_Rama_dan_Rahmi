@@ -1,14 +1,14 @@
 {
   "pegantin": {
     "pria": {
-      "foto": "/images/foto-rama.jpg",
+      "foto": "/images/rama.jpg",
       "panggilan": "Rama",
       "nama": "Moch Ramadhani BM",
       "bapak": "Sumalik",
       "ibu": "Jumiati"
     },
     "wanita": {
-      "foto": "/images/foto-rahmi.jpg",
+      "foto": "/images/rahmi.jpg",
       "panggilan": "Rahmi",
       "nama": "Rahmi Nailatunisrina",
       "bapak": "Moh.Okie Tobiin",
